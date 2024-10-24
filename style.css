@@ -15,7 +15,7 @@ header{
     border-radius: 2px;
     box-shadow: 0 4px 6px rgb(172, 16, 207);
     transition: transform 0.2s;
-    background-color: gold;
+    background-color: rgb(57, 255, 63);
     margin: 20px 10px;
 }
 
